@@ -1,0 +1,13 @@
+C:\Users\HP\OneDrive\Desktop\bnt\New folder\MRT-Management-System\MRT Management System\bin\Debug\MRT Management System.exe.config
+C:\Users\HP\OneDrive\Desktop\bnt\New folder\MRT-Management-System\MRT Management System\bin\Debug\MRT Management System.exe
+C:\Users\HP\OneDrive\Desktop\bnt\New folder\MRT-Management-System\MRT Management System\bin\Debug\MRT Management System.pdb
+C:\Users\HP\OneDrive\Desktop\bnt\New folder\MRT-Management-System\MRT Management System\obj\Debug\MRT Management System.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\bnt\New folder\MRT-Management-System\MRT Management System\obj\Debug\MRT_Management_System.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\bnt\New folder\MRT-Management-System\MRT Management System\obj\Debug\MRT Management System.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\bnt\New folder\MRT-Management-System\MRT Management System\obj\Debug\MRT Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\bnt\New folder\MRT-Management-System\MRT Management System\obj\Debug\MRT Management System.exe
+C:\Users\HP\OneDrive\Desktop\bnt\New folder\MRT-Management-System\MRT Management System\obj\Debug\MRT Management System.pdb
+C:\Users\HP\OneDrive\Desktop\bnt\New folder\MRT-Management-System\MRT Management System\obj\Debug\MRT_Management_System.Exit_gate_pass.resources
+C:\Users\HP\OneDrive\Desktop\bnt\New folder\MRT-Management-System\MRT Management System\obj\Debug\MRT_Management_System.Admin_panel.resources
+C:\Users\HP\OneDrive\Desktop\bnt\New folder\MRT-Management-System\MRT Management System\obj\Debug\MRT_Management_System.Pdf_interface.resources
+C:\Users\HP\OneDrive\Desktop\bnt\New folder\MRT-Management-System\MRT Management System\obj\Debug\MRT_Management_System.Entry_gate_pass.resources

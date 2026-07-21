@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace MRT_Management_System
 {
-    public partial class Form1 : Form
+    public partial class Admin_panel : Form
     {
-        public Form1()
+        public Admin_panel()
         {
             InitializeComponent();
+        }
+
+        private void btnapacc_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

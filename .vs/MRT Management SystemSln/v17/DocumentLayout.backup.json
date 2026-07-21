@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Adnan\\Documents\\Project\\MRT Management SystemSln\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8134764E-D17B-498D-BCF8-7809A0083BC7}|MRT Management System\\MRT Management System.csproj|c:\\users\\adnan\\documents\\project\\mrt management systemsln\\mrt management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8134764E-D17B-498D-BCF8-7809A0083BC7}|MRT Management System\\MRT Management System.csproj|solutionrelative:mrt management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8134764E-D17B-498D-BCF8-7809A0083BC7}|MRT Management System\\MRT Management System.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\mrt management system\\pdf_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8134764E-D17B-498D-BCF8-7809A0083BC7}|MRT Management System\\MRT Management System.csproj|solutionrelative:mrt management system\\pdf_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8134764E-D17B-498D-BCF8-7809A0083BC7}|MRT Management System\\MRT Management System.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\mrt management system\\entry_gate_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8134764E-D17B-498D-BCF8-7809A0083BC7}|MRT Management System\\MRT Management System.csproj|solutionrelative:mrt management system\\entry_gate_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8134764E-D17B-498D-BCF8-7809A0083BC7}|MRT Management System\\MRT Management System.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\mrt management system\\exit_gate_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8134764E-D17B-498D-BCF8-7809A0083BC7}|MRT Management System\\MRT Management System.csproj|solutionrelative:mrt management system\\exit_gate_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8134764E-D17B-498D-BCF8-7809A0083BC7}|MRT Management System\\MRT Management System.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\mrt management system\\admin_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8134764E-D17B-498D-BCF8-7809A0083BC7}|MRT Management System\\MRT Management System.csproj|solutionrelative:mrt management system\\admin_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8134764E-D17B-498D-BCF8-7809A0083BC7}|MRT Management System\\MRT Management System.csproj|c:\\users\\hp\\onedrive\\desktop\\bnt\\new folder\\mrt-management-system\\mrt management system\\entry_gate_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8134764E-D17B-498D-BCF8-7809A0083BC7}|MRT Management System\\MRT Management System.csproj|solutionrelative:mrt management system\\entry_gate_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,24 +33,69 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exit_gate_pass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\MRT Management System\\Exit_gate_pass.cs",
+              "RelativeDocumentMoniker": "MRT Management System\\Exit_gate_pass.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\MRT Management System\\Exit_gate_pass.cs [Design]",
+              "RelativeToolTip": "MRT Management System\\Exit_gate_pass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:51:31.082Z",
+              "EditorCaption": " [Design]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entry_gate_pass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\MRT Management System\\Entry_gate_pass.cs",
+              "RelativeDocumentMoniker": "MRT Management System\\Entry_gate_pass.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\MRT Management System\\Entry_gate_pass.cs [Design]",
+              "RelativeToolTip": "MRT Management System\\Entry_gate_pass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:41:22.123Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Adnan\\Documents\\Project\\MRT Management SystemSln\\MRT Management System\\Form1.cs",
-              "RelativeDocumentMoniker": "MRT Management System\\Form1.cs",
-              "ToolTip": "C:\\Users\\Adnan\\Documents\\Project\\MRT Management SystemSln\\MRT Management System\\Form1.cs [Design]",
-              "RelativeToolTip": "MRT Management System\\Form1.cs [Design]",
+              "Title": "Pdf_interface.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\MRT Management System\\Pdf_interface.cs",
+              "RelativeDocumentMoniker": "MRT Management System\\Pdf_interface.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\MRT Management System\\Pdf_interface.cs [Design]",
+              "RelativeToolTip": "MRT Management System\\Pdf_interface.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T04:38:25.712Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin_panel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\MRT Management System\\Admin_panel.cs",
+              "RelativeDocumentMoniker": "MRT Management System\\Admin_panel.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\MRT Management System\\Admin_panel.cs [Design]",
+              "RelativeToolTip": "MRT Management System\\Admin_panel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:51:33.812Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entry_gate_pass.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\MRT Management System\\Entry_gate_pass.cs",
+              "RelativeDocumentMoniker": "MRT Management System\\Entry_gate_pass.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\bnt\\New folder\\MRT-Management-System\\MRT Management System\\Entry_gate_pass.cs",
+              "RelativeToolTip": "MRT Management System\\Entry_gate_pass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:16:51.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

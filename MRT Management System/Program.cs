@@ -16,7 +16,9 @@ namespace MRT_Management_System
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new Pdf_interface());
+            //Application.Run(new Entry_gate_pass());
+            Application.Run(new Exit_gate_pass());
         }
     }
 }

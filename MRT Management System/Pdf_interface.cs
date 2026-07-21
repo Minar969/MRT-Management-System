@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace MRT_Management_System
+{
+    public partial class Pdf_interface : Form
+    {
+        public Pdf_interface()
+        {
+            InitializeComponent();
+        }
+    }
+}
